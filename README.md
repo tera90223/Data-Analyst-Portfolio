@@ -20,3 +20,23 @@ I am currently completing the Data Scientist Pathway on CodeAcademy and have com
 - Python Dictionaries
 - Python Classes
 - Modules and files
+
+**Major Completed Projects**
+- Project 1: Frida Kahlo Retrospective  
+*Setting*: I have been hired to work on a retrospective of Frido Kahlo's work and I have to put together an audio tour. Tasks are provided to create the audio tour.  
+*Objective*: Project emphasized list manipulation.
+
+- Project 2: Hurricane Analysis   
+*Setting*:  
+*Objective*: Project emphasized the organization and manipulation of data while using Python dictionaries.  
+
+- Project 3: Reggie Linear Regression  
+*Setting*:  
+*Objective*:  
+
+- Project 4: Hacking the Fender    
+
+
+- Project 5: U.S Medical Insurance Costs  
+*Setting*:  
+*Objective*:  
