@@ -25,14 +25,5 @@ I am currently completing the Data Scientist Pathway on CodeAcademy and have com
 - Project 1 - Frida Kahlo Retrospective:  Highlights List Manipulation Comprehension 
 
 - Project 2 - Hurricane Analysis: Highlights comprehension in functions, conditionals, lists, dictionaries, and string manipulation.
-- 
-- Project 3: Reggie Linear Regression  
-*Setting*:  
-*Objective*:  
 
-- Project 4: Hacking the Fender    
-
-
-- Project 5: U.S Medical Insurance Costs  
-*Setting*:  
-*Objective*:  
+- Project 3 - Portfolio Project - U.S Medical Insurance Costs: Using Python skills, investigate a medical insurance costs datasets. 
