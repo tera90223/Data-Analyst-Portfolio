@@ -22,12 +22,10 @@ I am currently completing the Data Scientist Pathway on CodeAcademy and have com
 - Modules and files
 
 **Major Completed Projects**
-- Project 1: List Manipulation Comprehension 
+- Project 1 - Frida Kahlo Retrospective:  Highlights List Manipulation Comprehension 
 
-- Project 2: Hurricane Analysis   
-*Setting*:  
-*Objective*: Project emphasized the organization and manipulation of data while using Python dictionaries.  
-
+- Project 2 - Hurricane Analysis: Highlights comprehension in functions, conditionals, lists, dictionaries, and string manipulation.
+- 
 - Project 3: Reggie Linear Regression  
 *Setting*:  
 *Objective*:  
