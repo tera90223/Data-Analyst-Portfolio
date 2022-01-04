@@ -1,0 +1,25 @@
+Day 1
+- Import Data and looked at the data via excel
+- Created lists for each columns 
+- Created count_category function that finds the unique elements in a column and their counts
+
+Day 2
+- Recruited two partners and we decided to create statistic functions. Unsure where we are going with the project at the moment.
+- Created functions: mean, median, sample_variance, sample_deviation
+
+Day 3
+- Decided to go solo due to schedule conflicts with partners. 
+- Decided my goal was to compare each column to charges and break down binary/nominal categories if applicable.
+- Completed the other statistic functions. Created functions: my_sum, my_range, maximum, minimum, mode 
+- Create functions: unique_elements which was originally apart of count_category, smoker_status
+- Completed General Summary of the Data Portion
+
+Day 4
+- Completed Portions: Sex vs. Charges, Smoker Status vs. Charges, Region vs. Charges, Age vs. Charges, BMI vs. Charges, Number of Children vs. Charges
+- Notes: Very repetitive code/ function in the future ***
+- Added function format_number for visual purposes, sublist_indices, sublist_charges
+
+Day 5
+- Completed the Who spends more on Healthcare: Men Or Women
+- Completed Overall Summary
+- Completed Improvements
