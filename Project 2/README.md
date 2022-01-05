@@ -9,7 +9,7 @@ Project emphasized **writing functions using a number of parameters, conditional
 ## Dataset:
 The dataset utilized is information concerning 34 category 5 Atlantic hurricanes stored in 7 different lists. The lists is located in `Hurricane_Analysis_Test_Functions.ipynb`.
 
-**List Descriptions**
+**List Descriptions**  
 **names:** Names of the Hurricanes  
 **months:** Months in which the Hurricanes occurred  
 **years:** Years in which the Hurricanes occurred  
