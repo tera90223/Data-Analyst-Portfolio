@@ -27,3 +27,18 @@ I am currently completing the Data Scientist Pathway on CodeAcademy and have com
 - Project 2 - Hurricane Analysis: Highlights comprehension in functions, conditionals, lists, dictionaries, and string manipulation.
 
 - Project 3 - Portfolio Project - U.S Medical Insurance Costs: Using Python skills, investigate a medical insurance costs datasets. 
+
+## Lesson 2 - Data Acquisition
+**Completed Objectives**
+- Recognized channels of data acquisition are best suited to different situations
+- Query data from relational databases using SQL
+- Integrate SQL queries into Python programs
+- Conduct web scraping with BeautifulSoup
+
+## Lesson 3 - Data Manipulation with Pandas
+**Completed Objectives**
+- Build and Use Python lambda functions
+- Understand the basics of NumPy
+- Create and manipulate pandas DataFrames
+- Work with aggregates and multiple DataFrames using pandas
+
