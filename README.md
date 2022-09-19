@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# Python-Portfolio
 
 ## Introduction
 This repository is mainly for projects and certificates I have completed as an Aspiring Data Engineer under CodeAcademy. 
