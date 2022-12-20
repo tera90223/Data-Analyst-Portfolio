@@ -40,5 +40,9 @@ I am currently completing the Data Scientist Pathway on CodeAcademy and have com
 - Build and Use Python lambda functions
 - Understand the basics of NumPy
 - Create and manipulate pandas DataFrames
+      - Load, Modify, and analyze DataFrames
+      - Transform a Series of data
+      - Use Lambda expressions to initiate a customized program utilized to manipulate DataFrames
 - Work with aggregates and multiple DataFrames using pandas
+      - Perform SQL-like functions on multiple DataFrames
 
